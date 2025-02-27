@@ -21,6 +21,8 @@ let header = (
     <Link href={"/"}>
       <h1>Samia's Blog</h1>
     </Link>
+    <br />
+    <hr />
   </header>
 );
 let footer = <footer>Made by Samia!</footer>;
